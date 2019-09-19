@@ -10,7 +10,7 @@ function App() {
         <p>
         el react shaghal ya 3am el 7ag mate2la2sh :D</p>
         <p>
-        ah walahi zambo2lak keda
+          fo2shako
         </p>
         <a
           className="App-link"
